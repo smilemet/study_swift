@@ -30,4 +30,3 @@ var someTest: Bool = someAny // error
 var someAnyObject : AnyObject
 someAny = nil // error
 comeAnyObject = nil // error
-
